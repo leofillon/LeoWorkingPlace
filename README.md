@@ -8,4 +8,6 @@ comandos de git:
 -git checkout <branch> (switchear branches)
 	-git checkout -b <branch>  (creaa nuevo)
 -git push origin master (o <branch>)
--
+-git branches -d <branch>
+-git push origin --delete  <branch>
+-git rm <file, object>
